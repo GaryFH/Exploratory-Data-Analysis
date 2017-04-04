@@ -4,7 +4,6 @@ NEI <- readRDS("summarySCC_PM25.rds")
 SCC <- readRDS("Source_Classification_Code.rds")
 
 
-
 d1<-tbl_df(NEI)
 ds1<-tbl_df(SCC)
 
